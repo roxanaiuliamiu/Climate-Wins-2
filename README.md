@@ -21,14 +21,6 @@ Approach
 
 The task involved developing three thought experiments using a combination of different ML algorithms to devise a model that ClimateWins could implement to reach its goals. The results were compiled and presented in a final presentation.
 
-Project Folder Structure
 
-The project files are organized into the following folders:
-
-01 Project Management: includes the Project Brief.
-02 Data: divided into two subfolders:
-Original Data: unscaled weather data + pleasant weather prediction data
-Prepared Data: scaled weather data + images ------ OMITTED FROM THE REPOSITORY FOR SPACE-SAVING PURPOSES ------
-03 Scripts #2: contains Jupyter notebooks documenting the current phase of the project.
 04 Analysis/Visualizations: holds relevant visuals.
 05 Sent to Client: contains pdf presentations and reports to ClimateWins stakeholders.
