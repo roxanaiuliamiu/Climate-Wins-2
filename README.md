@@ -1,4 +1,4 @@
-# Climate-Wins-2-Machine Learnin
+# Climate-Wins-2-Machine Learning
 Navigating Climate Change with Machine Learning
 
 Applying both unsupervised (dendrograms) and supervised machine learning algorithms (CNN, RNN, Random Forest) alongside principal component analysis (PCA) and hyperparameter optimization to develop a comprehensive forecasting strategy for ClimateWins.
